@@ -6,10 +6,11 @@
 </p>
 
 <p align="left"> 
-  <a href="https://x.com/MMisbahUlHaq1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/misbahulhaq1?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.linkedin.com/in/misbah-hak/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
   </a>
 </p>
+
 
 ---
 
@@ -43,11 +44,11 @@ Check out my portfolio: [**misbahhak.com**](https://misbahhak.com)
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://x.com/MMisbahUlHaq1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/misbah-hak/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/MMisbahUlHaq1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 
