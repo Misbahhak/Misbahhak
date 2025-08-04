@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://x.com/misbahulhaq1" target="_blank">
+  <a href="https://x.com/MMisbahUlHaq1" target="_blank">
     <img src="https://img.shields.io/twitter/follow/misbahulhaq1?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
